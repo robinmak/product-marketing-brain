@@ -1,6 +1,6 @@
 # Product Marketing OS
 
-![Product Marketing OS Banner](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/pmm-os-banner.png)
+![Product Marketing OS Banner](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/pmm-os-banner-v2.png)
 
 ## Problem Statement
 
