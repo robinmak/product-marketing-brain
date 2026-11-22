@@ -1,6 +1,6 @@
 # Product Marketing OS
 
-![Product Marketing OS Banner](docs/images/pmm-os-banner.png)
+![Product Marketing OS Banner](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/pmm-os-banner.png)
 
 ## Problem Statement
 
@@ -18,7 +18,7 @@ Evolve the multi-agent orchestration into a structured, skill-based AI prompt bu
 
 Each skill captures proven methodologies (e.g., persona development, value proposition design, campaign ideation), enabling consistent, high-quality outputs while reducing ambiguity in prompt interpretation. Subagents are orchestrated to execute discrete tasks with clear inputs and outputs, improving accuracy, reducing context overload, and minimizing latency. This approach transforms prompting from an ad hoc activity into a structured system of execution—where context is modular, reusable, and purpose-built—resulting in more differentiated, on-brand, and scalable campaign and asset development for product marketers.
 
-![Product Marketing Brain](docs/images/brain-pmm-os.png)
+![Product Marketing Brain](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/brain-pmm-os.png)
 
 It specifically solves the following challenges:
 
@@ -38,13 +38,13 @@ Claude Code is the interactive workspace and chat interface where product market
 
 Agents orchestrate the distillation of complex inputs into structured, insight-led briefs, enables rapid generation and simulation of differentiated campaign concepts and content variants, and scales execution by adapting a single master narrative into channel-specific, persona-tailored, and on-brand assets and content—all while maintaining brand consistency and visual cohesion. Instead of prompting from scratch, product marketers select skills (e.g., `/product-launch-gtm`) and trigger the pre-built skill (e.g., product launch), producing consistent, structured outputs that improve over time.
 
-![Prompting with Product Marketing Skills](docs/images/prompt-pmm-skills.png)
+![Prompting with Product Marketing Skills](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/prompt-pmm-skills.png)
 
 ## Product Marketing Brain
 
 Product Marketing Brain is a centralized knowledge and framework aligned to product marketing form and function context, specialized agent skills and workflow patterns. It eliminates repetitive prompting by giving Claude product marketing permanent context and specialized agents product marketing skills as describe above to handle focused, complex tasks and operates independently, gathers its results, and returns only the necessary, synthesized information to the main conversation. This ensures the main context window remains perfectly clean.
 
-![Product Marketing OS Structure](docs/images/structure-pmm-os.png)
+![Product Marketing OS Structure](https://raw.githubusercontent.com/robinmak/product-marketing-brain/main/docs/images/structure-pmm-os.png)
 
 ## Desired Outcome / Impact
 
